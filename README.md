@@ -20,12 +20,16 @@ Milestones: O dataset não está alimentado com valores de data, então não con
 
 Cronograma:  
 Semana 1: Exploração e limpeza dos dados para garantir que estejam adequados para análise.
+
           Responsável: Amarildo Maciel Junior
 Semana 2: Realização da análise descritiva e criação de visualizações para identificar padrões.
+
           Responsável: Bruna Mendes Rocha
 Semana 3: Modelagem dos dados e refinamento para extrair insights mais profundos.
+
           Responsável: Gustavo Bovo Albertini
 Semana 4: Conclusão do projeto e geração de insights e recomendações baseados na análise dos dados.
+
           Responsável: Vitória Vareira
           
 Origem:  Amazon
