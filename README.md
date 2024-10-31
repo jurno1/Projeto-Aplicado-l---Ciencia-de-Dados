@@ -1,10 +1,10 @@
 # Projeto-Aplicado-l---Ciencia-de-Dados
 Membros do grupo:
 
-Amarildo Maciel Junior
-Bruna Mendes Rocha
-Gustavo Bovo Albertini
-Vitória Vareira
+Amarildo Maciel Junior,
+Bruna Mendes Rocha,
+Gustavo Bovo Albertini,
+Vitória Vareira.
 
 
 Nome do Projeto: Análise de Produtos Amazon 
