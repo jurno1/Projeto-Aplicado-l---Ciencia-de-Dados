@@ -11,7 +11,7 @@ Nome do Projeto: Análise de Produtos Amazon
 
 Dataset: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews/data 
 
-Github: [https://github.com/ProjetoAplicadoI](https://github.com/jurno1/Projeto-Aplicado-l---Ciencia-de-Dados)
+Github: [[https://github.com/ProjetoAplicadoI](https://github.com/jurno1/Projeto-Aplicado-l---Ciencia-de-Dados)](https://github.com/jurno1/Projeto-Aplicado-l---Ciencia-de-Dados/tree/main)
 
 Objetivo: Fazer uma análise dos produtos oferecidos na Amazon baseado nos reviews dos consumidores. 
 
