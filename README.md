@@ -2,8 +2,11 @@
 Membros do grupo:
 
 Amarildo Maciel Junior
+
 Bruna Mendes Rocha
+
 Gustavo Bovo Albertini
+
 Vitória Vareira
 
 
