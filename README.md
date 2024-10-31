@@ -1,5 +1,6 @@
 # Projeto-Aplicado-l---Ciencia-de-Dados
--- Membros do grupo --
+Membros do grupo:
+
 Amarildo Maciel Junior
 Bruna Mendes Rocha
 Gustavo Bovo Albertini
