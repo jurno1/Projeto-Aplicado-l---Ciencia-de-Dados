@@ -3,7 +3,7 @@ Membros do grupo:
 
 Amarildo Maciel Junior,
 Bruna Mendes Rocha,
-Gustavo Bovo Albertini,
+Gustavo Bovo Albertini e
 Vitória Vareira.
 
 
