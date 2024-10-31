@@ -1,1 +1,0 @@
-Esta pasta reúne os scripts de análise exploratória e manipulação de dados do projeto. Os scripts documentam cada etapa do processo, desde a limpeza dos dados e análises estatísticas até a criação de visualizações e a preparação de conjuntos de dados específicos para os dashboards finais.
